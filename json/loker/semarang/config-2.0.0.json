@@ -1,16 +1,16 @@
 {
   "blog": {
-    "blogger_id": "8845146772491966661",
+    "blogger_id": "4525684431357550318",
     "api_key": "AIzaSyCF7oxEzYlQbxh9uttR33VUjlfeHCn7uhk,AIzaSyBLNcpqOTyuoKEZAMQCDGON05_9-RCWqiM,AIzaSyBHvmPLHj7e1V4GcvWg36WOHHAA3uKeT9Y"
   },
   "app": {
     "status": true,
     "redirect_url": "",
     "more_apps_url": "https://play.google.com/store/apps/developer?id=Portal+Digital+Kreasi",
-    "privacy_policy_url": "https://sites.google.com/view/loker-jogja-privacy-policy",
-    "publisher_info_url": "https://sites.google.com/view/loker-jogja-privacy-policy",
-    "terms_conditions_url": "https://sites.google.com/view/loker-jogja-privacy-policy",
-    "email_feedback_and_report": "portalinfolowongankerja@gmail.com",
+    "privacy_policy_url": "https://sites.google.com/view/loker-semarang-privacy-policy",
+    "publisher_info_url": "https://sites.google.com/view/loker-semarang-privacy-policy",
+    "terms_conditions_url": "https://sites.google.com/view/loker-semarang-privacy-policy",
+    "email_feedback_and_report": "portaldigitalkreasi@gmail.com",
     "category_column_count": 3,
     "show_page_menu": false,
     "show_view_on_site_menu": false,
@@ -25,7 +25,7 @@
     "enable_dark_mode_as_default_theme": false
   },
   "notification": {
-    "fcm_notification_topic": "loker_jogja_topic",
+    "fcm_notification_topic": "loker_semarang_topic",
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000"
   },
   "ads": {
@@ -33,10 +33,10 @@
     "main_ads": "admob",
     "backup_ads": "applovin_discovery",
     "admob_publisher_id": "pub-5107556562590198",
-    "admob_banner_unit_id": "ca-app-pub-5107556562590198/6113395200",
-    "admob_interstitial_unit_id": "ca-app-pub-5107556562590198/4800313530",
-    "admob_native_unit_id": "ca-app-pub-5107556562590198/3983708277",
-    "admob_app_open_ad_unit_id": "ca-app-pub-5107556562590198/3543072186",
+    "admob_banner_unit_id": "ca-app-pub-5107556562590198/2838410896",
+    "admob_interstitial_unit_id": "ca-app-pub-5107556562590198/6661325587",
+    "admob_native_unit_id": "ca-app-pub-5107556562590198/3920430418",
+    "admob_app_open_ad_unit_id": "ca-app-pub-5107556562590198/2455267511",
     "ad_manager_banner_unit_id": "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
     "ad_manager_native_unit_id": "/6499/example/native",
