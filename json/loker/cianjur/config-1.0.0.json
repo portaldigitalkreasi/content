@@ -1,6 +1,6 @@
 {
   "blog": {
-    "blogger_id": "5109447376447887351",
+    "blogger_id": "1041392756807911386",
     "api_key": "AIzaSyCF7oxEzYlQbxh9uttR33VUjlfeHCn7uhk,AIzaSyBLNcpqOTyuoKEZAMQCDGON05_9-RCWqiM,AIzaSyBHvmPLHj7e1V4GcvWg36WOHHAA3uKeT9Y"
   },
   "app": {
@@ -29,7 +29,7 @@
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000"
   },
   "ads": {
-    "ad_status": false,
+    "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "applovin_discovery",
     "admob_publisher_id": "pub-5107556562590198",
